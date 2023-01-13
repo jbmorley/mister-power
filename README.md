@@ -1,2 +1,3 @@
-# mister-power
-MiSTer Power
+# MiSTer Power
+
+USB-C Power Supply for the MiSTer
